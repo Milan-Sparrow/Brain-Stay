@@ -54,7 +54,7 @@ const Banner = () => {
             <p className="w-[80vw] md:w-[80vw] lg:w-[85vw] flex-grow text-3xl md:text-5xl lg:text-6xl">
               Serving Best Restaurant, Catering & Banquet Services In New Jersey
             </p>
-            <div className="animate-bounce">
+            <div className="animate-bounce cursor-pointer">
               <HiChevronDoubleDown className="h-16" />
             </div>
           </div>

@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Banner from "../components/Banner";
+import Menu from "../components/Menu";
 import Navbar from "../components/Navbar";
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       {/* Header */}
       <Navbar />
       <Banner />
+      <Menu />
     </div>
   );
 }

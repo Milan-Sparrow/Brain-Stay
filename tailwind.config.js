@@ -11,6 +11,8 @@ module.exports = {
           'linear-gradient(to top,rgba(0,0,0,0.2) 0,rgba(0,0,0,0.2) 100%),url("https://images.pexels.com/photos/941864/pexels-photo-941864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")',
         banner3:
           'linear-gradient(to top,rgba(0,0,0,0.2) 0,rgba(0,0,0,0.2) 100%),url("https://images.unsplash.com/photo-1544148103-0773bf10d330?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80")',
+        menu1:
+          'linear-gradient(to top,rgba(0,0,0,0.5) 0,rgba(0,0,0,0.5) 100%),url("https://images.pexels.com/photos/574112/pexels-photo-574112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")',
       }),
     },
   },
